@@ -1,5 +1,6 @@
+import { Text, View } from 'react-native'
 import React from 'react'
-import LandingComponent from './src/component/listandfeaturecomponent/ListAndFeatureComponent'
+import LandingComponent from './src/component/landingComponent/LandingComponent'
 
 
 const Main =() => {

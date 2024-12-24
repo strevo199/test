@@ -1,0 +1,1 @@
+export const barcode = require('./barcode.png')
